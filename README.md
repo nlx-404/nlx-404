@@ -1,5 +1,4 @@
 ## Hi there 👋
-<br>
 Visit my portfolio website at: https://nlx-404.github.io/Portfolio-Website/ <br>
 <br>
 Feel free to connect with me whether you're an employer or fellow programmer! - https://www.linkedin.com/in/noelardelean
