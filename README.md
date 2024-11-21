@@ -1,7 +1,8 @@
 ## Hi there 👋
-
-Visit my portfolio website at: https://nlx-404.github.io/Portfolio-Website/ [Only works on desktop at the moment]<br>
-Vist my Linkedin www.linkedin.com/in/noelardelean
+<br>
+Visit my portfolio website at: https://nlx-404.github.io/Portfolio-Website/ <br>
+<br>
+Feel free to connect with me whether you're an employer or fellow programmer! - https://www.linkedin.com/in/noelardelean
 <!--
 **nlx-404/nlx-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
