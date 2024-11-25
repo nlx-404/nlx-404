@@ -39,7 +39,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td>
       <a href="https://github.com/nlx-404/neovim-Setup">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nlx-404&repo=neovim-Setup&theme=tokyonight" />
       </a>
