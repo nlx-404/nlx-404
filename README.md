@@ -11,7 +11,7 @@
 [![Visit My Portfolio](https://img.shields.io/badge/-View%20Website-%230A74DA?style=for-the-badge&logo=github&logoColor=white)](https://nlx-404.github.io/Portfolio-Website/)  
 
 ---
-
+<!--
 ## 📌 Featured Projects
 <table>
   <tr>
@@ -49,7 +49,7 @@
 
 
 ---
-
+-->
 
 ## 🛠 Tech Stack  
 ### Languages:  
