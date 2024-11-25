@@ -72,8 +72,8 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nlx-404&show_icons=true&theme=tokyonight&hide=issues&hide_title=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlx-404&layout=compact&theme=tokyonight" />
+  <img height="90em" src="https://github-readme-stats.vercel.app/api?username=nlx-404&show_icons=true&theme=tokyonight&hide=issues&hide_title=true" />
+  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlx-404&layout=compact&theme=tokyonight" />
 </div>  
 
 ---
