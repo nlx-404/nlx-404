@@ -71,10 +71,10 @@
 ---
 ## 📊 GitHub Stats  
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nlx-404&show_icons=true&theme=tokyonight&hide=issues&hide_title=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlx-404&layout=compact&theme=tokyonight" />
-</div>  
+<div align="center" style="display: flex; justify-content: space-around; width: 100%;">
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=nlx-404&show_icons=true&theme=tokyonight&hide=issues&hide_title=true" alt="GitHub Stats" />
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlx-404&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
 ---
 
