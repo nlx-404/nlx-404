@@ -69,7 +69,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ardeleannoel@gmail.com)  
 
 ---
-## 📊 GitHub Stats  
+## 📊 Stats  
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nlx-404&show_icons=true&theme=tokyonight&hide=issues&hide_title=true" />
