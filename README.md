@@ -76,7 +76,7 @@
 
   ---
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlx-404&layout=compact&theme=tokyonight" />
+  <img height="auto" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlx-404&layout=compact&theme=tokyonight" />
 </div>
 
 ---
